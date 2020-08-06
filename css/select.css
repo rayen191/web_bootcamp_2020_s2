@@ -1,0 +1,19 @@
+/* les selector */
+p{
+    color: indianred;
+    border: 1px solid red;
+}
+#title1{
+    color: greenyellow;
+    font-size: large;
+}
+#title2{
+    color: hotpink;
+}
+.gocss1{
+    color: yellow;
+}
+.gocss2{
+    color: blue;
+    font-family: monospace;
+}
